@@ -1,0 +1,70 @@
+2020/09/01 01:39:01 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/
+in /var/www/example.com/public_html/index.php (13)
+2020/09/03 14:54:30 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/
+in /var/www/example.com/public_html/index.php (13)
+2020/09/03 15:07:27 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/
+in /var/www/example.com/public_html/index.php (13)
+2020/09/03 15:10:50 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/
+in /var/www/example.com/public_html/index.php (13)
+2020/09/03 15:11:05 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/
+in /var/www/example.com/public_html/index.php (13)
+2020/09/12 00:58:04 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/
+in /var/www/example.com/public_html/index.php (13)
+2020/09/12 01:00:45 [error] [php] Function get_magic_quotes_gpc() is deprecated (/var/www/example.com/public_html/framework/web/CHttpRequest.php:122)
+Stack trace:
+#0 /var/www/example.com/public_html/framework/base/CApplication.php(513): CWebApplication->getComponent()
+#1 /var/www/example.com/public_html/framework/web/CWebApplication.php(545): CWebApplication->getRequest()
+#2 /var/www/example.com/public_html/framework/base/CApplication.php(165): CWebApplication->init()
+#3 /var/www/example.com/public_html/framework/YiiBase.php(125): CWebApplication->__construct()
+#4 /var/www/example.com/public_html/framework/YiiBase.php(98): createApplication()
+#5 /var/www/example.com/public_html/index.php(13): createWebApplication()
+REQUEST_URI=/gii
+in /var/www/example.com/public_html/index.php (13)
